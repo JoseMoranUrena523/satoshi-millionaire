@@ -38,6 +38,6 @@ Becoming a Satoshi Millionaire takes time and effort, but it's not an impossible
 
 If you found this guide helpful, don't forget to give it a star on GitHub and share it with your friends. And if you have any other tips or ideas on how to become a Satoshi Millionaire, feel free to contribute by opening a pull request.
 
-Happy earning and good luck on your journey to becoming a Satoshi Millionaire! 🔥🚀💰```
+Happy earning and good luck on your journey to becoming a Satoshi Millionaire! 🔥🚀💰
 
 Hope this helps!
