@@ -32,6 +32,10 @@ To start earning satoshis on Microlancer.io, simply visit their website: https:/
 
 Want to have some fun while earning satoshis? Check out [ZEBEDEE's list of partnered games](https://help.zebedee.io/hc/en-us/articles/4421293613591-Which-games-can-I-play-for-Bitcoin-) and play any of the games there to accumulate as many satoshis as you can!
 
+## Cheat Method
+
+If you feel like you don't want to do any of these methods, you can purchase satoshis via [Switchere](https://switchere.com) or [LocalCoinSwap](https://localcoinswap.com/?rc=B03F4CBC). I recommend LocalCoinSwap because I had issues with Switchere when using a virtual card with Revolut and Current, and LocalCoinSwap uses an escrow P2P system and you can pay with any payment method.
+
 ## Conclusion
 
 Becoming a Satoshi Millionaire takes time and effort, but it's not an impossible goal. By following these steps and exploring different ways to earn satoshis, you can start building your portfolio and potentially reach your goal of becoming a Satoshi Millionaire. Remember to always do your own research and invest wisely.
